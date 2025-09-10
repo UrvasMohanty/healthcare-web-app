@@ -1,8 +1,7 @@
 
   # Healthcare Web App Design
 
-  This is a code bundle for Healthcare Web App Design. The original project is available at https://www.figma.com/design/x0xFOCD079UQbXeAqIFDMl/Healthcare-Web-App-Design.
-
+  This is a code bundle for Healthcare Web App Design. The original project is available at https://wad-snake-62161010.figma.site/
   ## Running the code
 
   Run `npm i` to install the dependencies.
